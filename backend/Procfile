@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT lambert_4237.wsgi:application
